@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: square-floral-ornament-with-circular-medallion
+title: Square goldsmith's ornament with a central medallion
+description: A square, four-fold symmetrical ornament engraved as solid black shapes. A central medallion holds a rosette among fine leaf scrolls; a broad ring of dense black scrollwork encloses it, drawn out into a pointed lobe on each side, inside a thin ruled square whose spandrels hold four small animals, a long-tailed quadruped and three birds. Outside the square the ornament spreads as open scrollwork with large black flowers, tulip-shaped buds and rows of round berries, ending in sprays at the corners. Black ink on a transparent background; a faint film of paper tone remains over the square.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+  - animals
+subjects:
+  - medallion
+  - rosette
+  - flower
+  - bud
+  - berry
+  - leaf
+  - scroll
+  - arabesque
+  - bird
+colors:
+  - black
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Near-square and symmetrical; it reads as a tailpiece, a tile centrepiece or a backing medallion.
+  - The central medallion and the ruled inner square each crop out as a complete smaller ornament.
+  - Black ink on light grounds only; on a dark page the ornament disappears and only the faint paper film shows.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A film of paper tone covers the whole square at low alpha (about a fifth of the pixels sit at alpha 1–15 and a tenth between 64 and 191), visible as a mottled square on dark grounds; the solid black shapes are slightly soft-edged.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Goldsmith's Ornament in Square
+  object_identifier: 1943.3.2790
+  date: 1580–1699 (catalog year range)
+  artist: M. Christollien
+  record_url: https://www.nga.gov/collection/art-object-page.5965.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 1ccf601e4ed3f8ef3300c4ac26361e39449a047142dd283d568e94c2e048c860
+license: null
